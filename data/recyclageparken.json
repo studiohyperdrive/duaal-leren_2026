@@ -1,0 +1,66 @@
+[
+  {
+    "id": "rp-proeftuinstraat",
+    "name": "Recyclagepark Proeftuinstraat",
+    "address": "Proeftuinstraat 43",
+    "city": "Gent",
+    "openingHours": [
+      { "day": "mon", "open": null, "close": null },
+      { "day": "tue", "open": "10:00", "close": "18:00" },
+      { "day": "wed", "open": "10:00", "close": "18:00" },
+      { "day": "thu", "open": "10:00", "close": "18:00" },
+      { "day": "fri", "open": "10:00", "close": "18:00" },
+      { "day": "sat", "open": "09:00", "close": "17:00" },
+      { "day": "sun", "open": null, "close": null }
+    ],
+    "coordinates": { "lat": 51.0465, "lng": 3.7305 }
+  },
+  {
+    "id": "rp-drongen",
+    "name": "Recyclagepark Drongen",
+    "address": "Industrieweg 112",
+    "city": "Drongen",
+    "openingHours": [
+      { "day": "mon", "open": null, "close": null },
+      { "day": "tue", "open": "10:00", "close": "17:00" },
+      { "day": "wed", "open": "10:00", "close": "17:00" },
+      { "day": "thu", "open": "10:00", "close": "17:00" },
+      { "day": "fri", "open": "10:00", "close": "17:00" },
+      { "day": "sat", "open": "09:00", "close": "16:00" },
+      { "day": "sun", "open": null, "close": null }
+    ],
+    "coordinates": { "lat": 51.0553, "lng": 3.6489 }
+  },
+  {
+    "id": "rp-wondelgem",
+    "name": "Recyclagepark Wondelgem",
+    "address": "Industriepark-Rosteyne 21",
+    "city": "Wondelgem",
+    "openingHours": [
+      { "day": "mon", "open": null, "close": null },
+      { "day": "tue", "open": "10:00", "close": "18:00" },
+      { "day": "wed", "open": "10:00", "close": "18:00" },
+      { "day": "thu", "open": "10:00", "close": "18:00" },
+      { "day": "fri", "open": "10:00", "close": "18:00" },
+      { "day": "sat", "open": "09:00", "close": "17:00" },
+      { "day": "sun", "open": "09:00", "close": "13:00" }
+    ],
+    "coordinates": { "lat": 51.0891, "lng": 3.7047 }
+  },
+  {
+    "id": "rp-gentbrugge",
+    "name": "Recyclagepark Gentbrugge",
+    "address": "Brusselsesteenweg 602",
+    "city": "Gentbrugge",
+    "openingHours": [
+      { "day": "mon", "open": null, "close": null },
+      { "day": "tue", "open": "10:00", "close": "18:00" },
+      { "day": "wed", "open": "10:00", "close": "18:00" },
+      { "day": "thu", "open": "10:00", "close": "18:00" },
+      { "day": "fri", "open": "10:00", "close": "18:00" },
+      { "day": "sat", "open": "09:00", "close": "17:00" },
+      { "day": "sun", "open": null, "close": null }
+    ],
+    "coordinates": { "lat": 51.0309, "lng": 3.7564 }
+  }
+]

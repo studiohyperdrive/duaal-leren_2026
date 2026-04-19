@@ -1,0 +1,74 @@
+{
+  "sunny": {
+    "nl": [
+      "Spoel PMD-verpakkingen zodat er geen geurhinder ontstaat in de zon.",
+      "Zet je GFT-container in de schaduw om maden en geurontwikkeling te beperken.",
+      "Hou de deksels van glas- en restafvalcontainers gesloten om wespen buiten te houden."
+    ],
+    "fr": [
+      "Rincez vos emballages PMC pour éviter les odeurs sous le soleil.",
+      "Placez votre conteneur de déchets organiques à l'ombre pour limiter mouches et odeurs.",
+      "Gardez les couvercles bien fermés sur le verre et les déchets résiduels pour éloigner les guêpes."
+    ]
+  },
+  "cloudy": {
+    "nl": [
+      "Ideaal weer om het recyclagepark te bezoeken — minder druk en geen hitte.",
+      "Controleer even je ophaalkalender voor de komende week.",
+      "Spoel je GFT-container uit zodra hij leeg is zodat geuren geen kans krijgen."
+    ],
+    "fr": [
+      "Temps idéal pour un passage au parc à conteneurs — ni foule, ni chaleur.",
+      "Jetez un œil à votre calendrier de collecte pour la semaine à venir.",
+      "Rincez votre bac à déchets organiques dès qu'il est vide pour éviter les mauvaises odeurs."
+    ]
+  },
+  "rain": {
+    "nl": [
+      "Zet papier en karton pas buiten op de ophaaldag zelf — nat karton wordt geweigerd.",
+      "Bind kartonnen dozen stevig samen met touw of tape zodat ze niet openvallen in de regen.",
+      "Plaats PMD-zakken onder een afdak of wacht tot vlak voor de ophaling."
+    ],
+    "fr": [
+      "Ne sortez le papier et le carton que le jour même de la collecte — le carton mouillé sera refusé.",
+      "Attachez bien vos cartons avec de la ficelle ou du ruban pour éviter qu'ils ne se défassent sous la pluie.",
+      "Placez les sacs PMC sous un auvent ou attendez juste avant le passage."
+    ]
+  },
+  "snow": {
+    "nl": [
+      "Vorst en sneeuw maken papier klam — stel de ophaling liefst uit naar de volgende ronde.",
+      "Maak de zone rond de vuilbakken sneeuwvrij zodat de ophaaldienst vlot kan passeren.",
+      "Dek kartonnen dozen af met een plastic zeil als je ze toch buiten moet zetten."
+    ],
+    "fr": [
+      "Le gel et la neige abîment le papier — reportez la sortie à la prochaine collecte si possible.",
+      "Déneigez la zone autour des poubelles pour faciliter le passage des éboueurs.",
+      "Couvrez les cartons d'une bâche plastique si vous devez absolument les sortir."
+    ]
+  },
+  "storm": {
+    "nl": [
+      "Zet je vuilbak pas buiten op de ochtend van de ophaling om wegwaaien te voorkomen.",
+      "Verzwaar lichte zakken (PMD, papier) met een steen of breng ze pas buiten vlak voor de ophaaldienst.",
+      "Sluit de deksels van je containers stevig en plaats ze tegen een muur uit de wind."
+    ],
+    "fr": [
+      "Sortez votre poubelle uniquement le matin de la collecte pour éviter qu'elle ne s'envole.",
+      "Alourdissez les sacs légers (PMC, papier) avec une pierre ou sortez-les juste avant le passage.",
+      "Fermez bien les couvercles de vos conteneurs et placez-les contre un mur à l'abri du vent."
+    ]
+  },
+  "hail": {
+    "nl": [
+      "Hagel kan PMD-zakken en papier beschadigen — hou je afval binnen tot vlak voor de ophaling.",
+      "Zet glas nooit buiten tijdens hagelbuien: breuk en zwerfvuil zijn het gevolg.",
+      "Controleer na een hagelbui of je afval niet rondvliegt in de buurt."
+    ],
+    "fr": [
+      "La grêle peut endommager les sacs PMC et le papier — gardez vos déchets à l'intérieur jusqu'au dernier moment.",
+      "Ne sortez jamais le verre pendant une averse de grêle : bris et déchets dispersés garantis.",
+      "Après une averse, vérifiez que vos déchets ne se sont pas envolés dans le voisinage."
+    ]
+  }
+}

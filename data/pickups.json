@@ -1,0 +1,62 @@
+[
+  {
+    "id": "p-001",
+    "date": "2026-04-20",
+    "type": "restafval",
+    "label": { "nl": "Restafval", "fr": "Déchets résiduels" }
+  },
+  {
+    "id": "p-002",
+    "date": "2026-04-20",
+    "type": "pmd",
+    "label": { "nl": "PMD", "fr": "PMC" }
+  },
+  {
+    "id": "p-003",
+    "date": "2026-04-22",
+    "type": "papier",
+    "label": { "nl": "Papier en karton", "fr": "Papier et carton" }
+  },
+  {
+    "id": "p-004",
+    "date": "2026-04-24",
+    "type": "gft",
+    "label": { "nl": "GFT", "fr": "Déchets organiques" }
+  },
+  {
+    "id": "p-005",
+    "date": "2026-04-27",
+    "type": "restafval",
+    "label": { "nl": "Restafval", "fr": "Déchets résiduels" }
+  },
+  {
+    "id": "p-006",
+    "date": "2026-04-27",
+    "type": "pmd",
+    "label": { "nl": "PMD", "fr": "PMC" }
+  },
+  {
+    "id": "p-007",
+    "date": "2026-04-29",
+    "type": "papier",
+    "label": { "nl": "Papier en karton", "fr": "Papier et carton" }
+  },
+  {
+    "id": "p-008",
+    "date": "2026-05-04",
+    "type": "restafval",
+    "label": { "nl": "Restafval", "fr": "Déchets résiduels" }
+  },
+  {
+    "id": "p-009",
+    "date": "2026-05-06",
+    "type": "papier",
+    "label": { "nl": "Papier en karton", "fr": "Papier et carton" }
+  },
+  {
+    "id": "p-010",
+    "date": "2026-05-08",
+    "type": "glas",
+    "label": { "nl": "Glas", "fr": "Verre" }
+  }
+]

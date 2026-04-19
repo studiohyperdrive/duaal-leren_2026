@@ -1,9 +1,7 @@
 import { Counter } from '../components/Counter';
 
-export function CounterPage() {
-  return (
-    <article>
-      <Counter />
-    </article>
-  );
-}
+export const CounterPage = () => (
+  <article>
+    <Counter />
+  </article>
+);

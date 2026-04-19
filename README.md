@@ -54,6 +54,17 @@ src/
       index.ts          # public API barrel — only this is importable from outside
 ```
 
+### Path aliases
+
+Configured in `tsconfig.app.json` and mirrored in `vite.config.ts`:
+
+| Alias        | Resolves to     | Use for                   |
+| ------------ | --------------- | ------------------------- |
+| `~/*`        | `src/*`         | Anywhere inside `src/`    |
+| `@/*`        | `src/*`         | Synonym for `~/*`         |
+| `@shared/*`  | `src/shared/*`  | Reusable, non-domain code |
+| `@modules/*` | `src/modules/*` | A module's public API     |
+
 ### Module conventions
 
 - Each module exposes a **public API** through its `index.ts`. Other code should import from `@modules/counter`, never from `@modules/counter/components/Counter`.

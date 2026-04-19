@@ -14,7 +14,7 @@ counter/
 Outside code imports via the public API only:
 
 ```ts
-import { CounterPage } from '@modules/counter';
+import { CounterPage } from '~modules/counter';
 ```
 
-Reaching into `@modules/counter/components/Counter` from outside is a smell — it breaks the boundary the `index.ts` is meant to enforce.
+Reaching into `~modules/counter/components/Counter` from outside is a smell — it breaks the boundary the `index.ts` is meant to enforce.

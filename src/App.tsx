@@ -1,4 +1,4 @@
-import { CounterPage } from '@modules/counter';
+import { CounterPage } from '~modules/counter';
 
 export function App() {
   return (

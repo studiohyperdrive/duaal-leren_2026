@@ -61,13 +61,12 @@ Configured in `tsconfig.app.json` and mirrored in `vite.config.ts`:
 | Alias        | Resolves to     | Use for                   |
 | ------------ | --------------- | ------------------------- |
 | `~/*`        | `src/*`         | Anywhere inside `src/`    |
-| `@/*`        | `src/*`         | Synonym for `~/*`         |
-| `@shared/*`  | `src/shared/*`  | Reusable, non-domain code |
-| `@modules/*` | `src/modules/*` | A module's public API     |
+| `~shared/*`  | `src/shared/*`  | Reusable, non-domain code |
+| `~modules/*` | `src/modules/*` | A module's public API     |
 
 ### Module conventions
 
-- Each module exposes a **public API** through its `index.ts`. Other code should import from `@modules/counter`, never from `@modules/counter/components/Counter`.
+- Each module exposes a **public API** through its `index.ts`. Other code should import from `~modules/counter`, never from `~modules/counter/components/Counter`.
 - `shared/` is for code that has no business meaning. If a piece of code is about a domain concept, it belongs inside that module.
 - Pages are thin: they compose components and hooks from the same module.
 

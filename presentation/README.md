@@ -56,3 +56,11 @@ Gebruik een roadmap per rol om je niveau te checken en hiaten te vinden, bijvoor
 Je kan manueel een browser openen binnen VSCode, of de config aanpassen zodat je elke localhost automatisch opent binnen VSCode. De laatste optie is handig als je snel wilt debuggen en testen zonder van venster te wisselen.
 
 > [VSCode documentatie](https://code.visualstudio.com/docs/debugtest/integrated-browser#:~:text=in%20future%20releases.-,Open%20the%20browser,in%20its%20own%20editor%20tab.)
+
+## Parallax effect React?
+
+> [React Spring Parallax](https://react-spring.dev/docs/components/parallax)
+
+> [Simple Parallax](https://simpleparallax.com/)
+
+> [Framer Motion](https://motion.dev/tutorials/react-parallax)

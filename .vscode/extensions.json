@@ -1,7 +1,3 @@
 {
-  "recommendations": [
-    "dbaeumer.vscode-eslint",
-    "esbenp.prettier-vscode",
-    "editorconfig.editorconfig"
-  ]
+  "recommendations": ["usernamehw.errorlens", "gruntfuggly.todo-tree"]
 }

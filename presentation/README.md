@@ -29,7 +29,7 @@ const exampleArray1: string[] = ['hello', 'world'];
 const exampleArray2: Array<string> = ['hello', 'world'];
 ```
 
-[Wat is een primitive?](https://developer.mozilla.org/en-US/docs/Glossary/Primitive)
+> [Wat is een primitive?](https://developer.mozilla.org/en-US/docs/Glossary/Primitive)
 
 Er zijn verschillende primitives; en voor elke primitive is er een constructor:
 
@@ -47,4 +47,12 @@ new Number();
 
 ## Op welke manier weet ik of ik klaar ben om te solliciteren voor een functie?
 
-Gebruik een roadmap per rol om je niveau te checken en hiaten te vinden, bijvoorbeeld via [roadmap.sh](https://roadmap.sh/).
+Gebruik een roadmap per rol om je niveau te checken en hiaten te vinden, bijvoorbeeld via
+
+> [roadmap.sh](https://roadmap.sh/).
+
+## Op welke manier kan ik de browser openen binnen VSCode?
+
+Je kan manueel een browser openen binnen VSCode, of de config aanpassen zodat je elke localhost automatisch opent binnen VSCode. De laatste optie is handig als je snel wilt debuggen en testen zonder van venster te wisselen.
+
+> [VSCode documentatie](https://code.visualstudio.com/docs/debugtest/integrated-browser#:~:text=in%20future%20releases.-,Open%20the%20browser,in%20its%20own%20editor%20tab.)

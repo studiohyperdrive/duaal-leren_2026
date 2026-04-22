@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "react-i18next documentation": {
+      "url": "https://react.i18next.com/~gitbook/mcp",
+      "type": "http"
+    }
+  },
+  "inputs": []
+}

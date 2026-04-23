@@ -21,6 +21,11 @@ Enkele handige VSCode functies om te gaan mappen naar een shortcut die voor jou 
 - `markdown.showPreviewToSide`: Toont een preview van je Markdown-bestand naast het huidige bestand.
 - `editor.action.commentLine`: Commentaar toevoegen of verwijderen van de huidige regel of geselecteerde regels.
 
+## `ctrl` + `click` in VSCode
+
+In VSCode kun je `ctrl` + `click` (of `cmd` + `click` op Mac) gebruiken om snel naar de definitie van een functie, variabele of ander symbool te navigeren. Dit is vooral handig in TypeScript, waar je vaak wilt zien hoe een functie is gedefinieerd of welke types er worden gebruikt.
+Je ziet ook de referenties van een functie of variabele, wat betekent dat je kunt zien waar deze wordt gebruikt in je codebase. Dit helpt je om snel door je code te navigeren en beter te begrijpen hoe verschillende delen van je code met elkaar verbonden zijn.
+
 # Topics en vragen
 
 ## De notatie van een Array
@@ -67,7 +72,7 @@ function exampleFunction() {
 
 Gebruik een roadmap per rol om je niveau te checken en hiaten te vinden, bijvoorbeeld via
 
-> [roadmap.sh](https://roadmap.sh/).
+> [roadmap.sh](https://roadmap.sh/)
 
 ## Op welke manier kan ik de browser openen binnen VSCode?
 
